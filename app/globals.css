@@ -57,7 +57,7 @@ body {
 .ticker-track {
   display: flex;
   width: max-content;
-  animation: bazar-marquee 150s linear infinite;
+  animation: bazar-marquee 140s linear infinite;
 }
 
 .ticker:hover .ticker-track {
